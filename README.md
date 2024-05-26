@@ -77,9 +77,7 @@ In this project, we apply
 ### Implementation Details
 
 #### Files and Structure
-- `game.py`: Contains the racing game environment and controls the car's movement.
-> [!NOTE]
-> These files were 
+- `game.py`: Contains 
 
 
 ### Implementation
