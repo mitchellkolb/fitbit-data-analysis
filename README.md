@@ -1,25 +1,25 @@
 <h1 align="center">Fitbit Data Analysis</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mitchellkolb/fitbit-data-analysis?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mitchellkolb/fitbit-data-analysis?color=0078D6">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mitchellkolb/fitbit-data-analysis?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mitchellkolb/fitbit-data-analysis?color=0078D6">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mitchellkolb/fitbit-data-analysis?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mitchellkolb/fitbit-data-analysis?color=0078D6">
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/mitchellkolb/fitbit-data-analysis?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/mitchellkolb/fitbit-data-analysis?color=0078D6" />
 </p>
 
 <p align="center">
 <img
-    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"
+    src="https://img.shields.io/badge/Programming Language-%2300599b?style=for-the-badge&logo=C&logoColor=white"
     alt="Website Badge" />
 <img
     src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows 10&logoColor=white"
     alt="Website Badge" />
 </p>
 
-This project is intended to showcase our knowledge learning about Neural Network Design by developing a
+This project is intended to showcase my knowledge when learning C
 
 ![project image](resources/image1.png)
 
