@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Fitbit Data Analysis</h1>
 
 <p align="center">
@@ -35,12 +37,11 @@ This project is intended to showcase my knowledge when learning C
 
 ## Table of Contents
 - [What I Learned](#what-i-learned-in-this-project)
-- [Tools Used in this Project](#tools-used-in-this-project)
+- [Tools Used](#tools-used-in-this-project)
 - [Development Environment](#development-environment)
 - [Team / Contributors / Teachers](#team--contributors--teachers)
 - [How to Set Up](#how-to-set-up)
 - [Project Overview](#project-overview)
-- [References](#references)
 - [Acknowledgments](#acknowledgments)
 
 ---
@@ -135,4 +136,3 @@ Future improvements could include
 This codebase and all supporting materials was made as apart of a course for my undergrad at WSU for CPTS XXX - XXX in the Spring of 2022. 
 
 ---
-[Return to Top of Page](#top)
