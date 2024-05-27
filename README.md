@@ -33,11 +33,26 @@ This project is intended to showcase my knowledge when learning C
 ---
 
 
+## Table of Contents
+- [What I Learned](#what-i-learned-in-this-project)
+- [Tools Used in this Project](#tools-used-in-this-project)
+- [Development Environment](#development-environment)
+- [Team / Contributors / Teachers](#team--contributors--teachers)
+- [How to Set Up](#how-to-set-up)
+- [Project Overview](#project-overview)
+- [References](#references)
+- [Acknowledgments](#acknowledgments)
+
+---
+
+# What I Learned in this Project
+- How to
+- Programming in 
+
+
 
 # Tools Used in this Project
-- C
-
-
+- Python
 
 
 
@@ -52,14 +67,20 @@ This project is intended to showcase my knowledge when learning C
 
 # Team / Contributors / Teachers
 - [Mitchell Kolb](https://github.com/mitchellkolb)
-- Professor. Andy O'Fallon
+- [name]()
+- Professor. 
 
 
 
 
 
 # How to Set Up
-This project was implemented on 
+This project was implemented on our local machine inside of a virtual machine using:
+- Ubuntu Version 20.04.03 found at this [link](http://lt.releases.ubuntu.com/20.04.3/).
+- Clone this repository 
+- Open terminal at the codebase `~.../ext2/Noah-Mitchell/`
+
+
 
 
 
@@ -74,10 +95,20 @@ This project utilizes
 In this project, we apply 
 
 
+### Literature Review
+In this we drew inspiration from various sources, including video tutorials online for 
+
+
+### Technical Plan
+The project employs a 
+
+
 ### Implementation Details
 
 #### Files and Structure
-- `game.py`: Contains 
+- `game.py`: Contains the racing game environment and controls the car's movement.
+> [!NOTE]
+> These files were 
 
 
 ### Implementation
@@ -101,4 +132,7 @@ Future improvements could include
 
 --- 
 # Acknowledgments
-This codebase and all supporting materials was made as apart of a course for my undergrad at WSU for CPTS 122 - Data Structures C/C++ in the Summer of 2020. 
+This codebase and all supporting materials was made as apart of a course for my undergrad at WSU for CPTS XXX - XXX in the Spring of 2022. 
+
+---
+[Return to Top of Page](#top)
