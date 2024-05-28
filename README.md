@@ -35,7 +35,7 @@ This project is intended to showcase my knowledge when learning C
 ---
 
 
-## Table of Contents
+# Table of Contents
 - [What I Learned](#what-i-learned-in-this-project)
 - [Tools Used](#tools-used-in-this-project)
 - [Development Environment](#development-environment)
