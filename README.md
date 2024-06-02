@@ -24,13 +24,10 @@
 This project is intended to showcase my knowledge when learning C and using file operations. The goal of this project was to dive into Fitbit data to analyze various health metrics like calories burned, distance walked, heart rate, and sleep quality. My main objectives were to grasp and apply data cleansing techniques, implement deduplication methods, and perform data analysis to compute meaningful results. Throughout this project, I covered topics such as C language programming, arrays, strings, pointers, structs, and basic string handling functions. I learned how to parse and convert strings from files, filter datasets, and understand the differences between array and pointer notation. Additionally, I created basic test cases, computed statistical summaries, and reported results in a structured format both on the screen and in a CSV file. This assignment reinforced the importance of accurate data handling, structuring programs effectively, and ensuring data integrity through cleaning and deduplication processes.
 
 
-<div style="text-align: center;">
-  <img src="resources/fitbit-pic.jpg" alt="Fitbit Image" style="width: 20%;">
-</div>
+<p align="center">
+   <img src="resources/fitbit-pic.jpg" alt="Fitbit Image" width="30%"/>
+</p>
 
-<center>
-  <img src="resources/fitbit-pic.jpg" alt="Fitbit Image" width="30%">
-</center>
 
 <details>
 <summary style="color:#5087dd">Watch the Full Video Demo Here</summary>
