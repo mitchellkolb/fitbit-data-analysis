@@ -25,7 +25,7 @@ This project is intended to showcase my knowledge when learning C and using file
 
 
 <div style="text-align: center;">
-  <img src="resources/fitbit-pic.jpg" alt="Fitbit Image" style="width: 50%;">
+  <img src="resources/fitbit-pic.jpg" alt="Fitbit Image" style="width: 20%;">
 </div>
 
 <details>
