@@ -28,6 +28,10 @@ This project is intended to showcase my knowledge when learning C and using file
   <img src="resources/fitbit-pic.jpg" alt="Fitbit Image" style="width: 20%;">
 </div>
 
+<center>
+  <img src="resources/fitbit-pic.jpg" alt="Fitbit Image" width="30%">
+</center>
+
 <details>
 <summary style="color:#5087dd">Watch the Full Video Demo Here</summary>
 
