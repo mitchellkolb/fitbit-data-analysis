@@ -51,8 +51,10 @@ This project is intended to showcase my knowledge when learning C and using file
 ---
 
 # What I Learned in this Project
-- How to
-- Programming in 
+- File operations like read/write from existing file to new files
+- Programming conventions in C
+- Data Organization/Mining techniques
+
 
 
 
