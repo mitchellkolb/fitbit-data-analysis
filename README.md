@@ -59,7 +59,7 @@ This project is intended to showcase my knowledge when learning C and using file
 
 
 # Tools Used in this Project
-- Python
+- C
 
 
 
@@ -74,18 +74,19 @@ This project is intended to showcase my knowledge when learning C and using file
 
 # Team / Contributors / Teachers
 - [Mitchell Kolb](https://github.com/mitchellkolb)
-- [name]()
-- Professor. 
+- Professor. Andy O'Fallon
 
 
 
 
 
 # How to Set Up
-This project was implemented on our local machine inside of a virtual machine using:
-- Ubuntu Version 20.04.03 found at this [link](http://lt.releases.ubuntu.com/20.04.3/).
+This project was implemented on my local machine
 - Clone this repository 
-- Open terminal at the codebase `~.../ext2/Noah-Mitchell/`
+- Open terminal at the codebase `~.../fitbit-data-analysis/PA1/`
+- Use this command to compile the codebase `gcc main.c equations.c`
+- Run the code `./a.out`
+- Check the Results.csv file to view the program output
 
 
 
