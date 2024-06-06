@@ -93,7 +93,16 @@ This project was implemented on my local machine
 
 
 # Project Overview
-This project utilizes 
+This project involves me using C to code a program that will analyze 24 hours of data form a .csv file of Fitbit data. Each record in the “FitbitData.csv” represents one minute of data and consists of eight fields. These include the following: 
+1.    Patient ID 
+2.    Minute 
+3.    Calories 
+4.    Distance (in miles) 
+5.    Floors 
+6.    Heartrate 
+7.    Steps 
+8.    Sleep level
+I'm required to using structs and various strings to complete this task
 
 
 
