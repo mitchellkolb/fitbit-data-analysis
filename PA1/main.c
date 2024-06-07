@@ -3,7 +3,7 @@ Programmer: Mitchell Kolb
 Class: CptS 122, Ssummer 2020; Lab Section ##
 Programming Assingment: #1
 Date: 5/19/2020
-Description: This program reads a lot form a files and does som e calculations
+Description: This program reads a lot form a files and does some calculations
 
              ***ADDITION***
 */
