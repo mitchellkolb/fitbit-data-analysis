@@ -102,7 +102,8 @@ This project involves me using C to code a program that will analyze 24 hours of
 6.    Heartrate 
 7.    Steps 
 8.    Sleep level
-I'm required to using structs and various strings to complete this task of categorizing all of the data points in the fitbit csv. 
+I'm required to using structs and various strings to complete this task of categorizing all of the data points in the fitbit csv. I'm also going to have my project contain at least one header file (a .h file), two C source files (which 
+must be .c files), and a local copy of the .csv file.
 
 
 
