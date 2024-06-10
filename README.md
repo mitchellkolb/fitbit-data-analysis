@@ -104,6 +104,7 @@ This project involves me using C to code a program that will analyze 24 hours of
 8.    Sleep level
 I'm required to using structs and various strings to complete this task of categorizing all of the data points in the fitbit csv. I'm also going to have my project contain at least one header file (a .h file), two C source files (which 
 must be .c files), and a local copy of the .csv file.
+- I must parse each record into the corresponding fields, and store into the FitbitData array; note: not all fields have values, some are “empty” or null; if some of the fields are “empty” or null, then you must perform data cleansing and insert values to construct a record that is consistent with the others; the data inserted should not represent valid values.
 
 
 
