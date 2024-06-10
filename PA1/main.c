@@ -50,6 +50,8 @@ int main()
     //Gets the Label line
     fscanf(infile, "%s", &temp_char);
     puts(temp_char);
+
+    printf("Here\n");
     
     for (int i = 0; i < 1445; i++)
     {
