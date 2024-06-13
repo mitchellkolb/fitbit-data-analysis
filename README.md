@@ -30,7 +30,7 @@ This project is intended to showcase my skill set when I was first learning C in
 <details>
 <summary style="color:#5087dd">Watch the Full Video Demo Here</summary>
 
-[![Full Video Demo Here](https://img.youtube.com/vi/VidKEY/1.jpg)](https://www.youtube.com/watch?v=VidKEY)
+[![Full Video Demo Here](https://img.youtube.com/vi/5XbRhzXmZzE/0.jpg)](https://www.youtube.com/watch?v=5XbRhzXmZzE)
 
 </details>
 
@@ -100,4 +100,5 @@ This project's requirements are complete, but one thing I could work on in the f
 ---
 # Acknowledgments
 This codebase and all supporting materials were made as part of a course for my undergrad at WSU for CPTS 122 in the Summer of 2020 and then reworked in the Summer of 2024.
+
 ---
