@@ -99,6 +99,6 @@ This project's requirements are complete, but one thing I could work on in the f
 
 ---
 # Acknowledgments
-This codebase and all supporting materials were made as part of a course for my undergrad at WSU for CPTS 122 in the Summer of 2020 and then reworked in the Summer of 2024.
+This codebase and all supporting materials were made as part of a course for my undergrad at WSU for CPTS 122 - Data Structures and Algorithms in the Summer of 2020 and then reworked in the Summer of 2024.
 
 ---
