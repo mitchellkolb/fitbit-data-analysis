@@ -69,8 +69,14 @@ This project was implemented on my local machine:
 - Clone this repository.
 - Open terminal at the codebase `~.../fitbit-data-analysis/Fitbit-2024/`.
 - Install GCC to compile the codebase.
-- Use this command: `gcc main.c equations.c`.
-- Run the code: `./a.out`.
+- Use this command: 
+```zsh
+gcc main.c equations.c
+```
+- Run the code: 
+```zsh
+./a.out
+```
 - Check the Terminal and Results.csv file to view the program output.
 
 # Project Overview
